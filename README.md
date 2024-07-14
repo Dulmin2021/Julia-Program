@@ -1,4 +1,4 @@
-# Julia Data Analysis and Visualization
+# Data Analysis and Visualization with Julia
 
 This project demonstrates basic data analysis and visualization using the Julia programming language. The project reads data from a CSV file, performs some data manipulation, and visualizes the results using a bar plot.
 
