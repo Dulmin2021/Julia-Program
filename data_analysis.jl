@@ -6,7 +6,7 @@ using Plots
 # Read the CSV file into a DataFrame
 data = CSV.read("data.csv", DataFrame)
 
-# Display the first few rows of the DataFrame
+# Display first few rows of the DataFrame
 println("Data Preview:")
 println(first(data, 5))
 
